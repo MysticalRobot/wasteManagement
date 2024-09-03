@@ -1,0 +1,37 @@
+Level 1 Encyclopedia
+  ____                       ____               _____           _   _      
+ / ___|_ __ ___  ___ _ __   / ___|  ___  __ _  |_   _|   _ _ __| |_| | ___ 
+| |  _| '__/ _ \/ _ \ '_ \  \___ \ / _ \/ _` |   | || | | | '__| __| |/ _ \
+| |_| | | |  __/  __/ | | |  ___) |  __/ (_| |   | || |_| | |  | |_| |  __/
+ \____|_|  \___|\___|_| |_| |____/ \___|\__,_|   |_| \__,_|_|   \__|_|\___|
+
+Appearance: 
+    The green sea turtle is the largest hard-shelled sea turtle. Its herbivore diet 
+    gives its fat a grennish color, as highlighted by their name. 
+
+Behavior: 
+    Green sea turtles primarily consume algae and seagrasses, but they are known to
+    occasionally forage sponges, invertebrates, and discarded fish (fish that are
+    caught and then released for a variety of different reasons).
+
+Life:
+    Like all other reptiles, they also must surface to breath and lay their eggs on land.
+    They are long-lived, reaching up to 70 years in age. They spend most of their 
+    adult lives, after around age 30, in shallow coastal habitats.
+
+Location:
+    Green sea turtles can be found worldwide in subtropical and temperate regions throughout
+    the Atlantic, Pacific, and Indian Oceans. Hence, it is important for all the countries
+    where they exist to work together for their protection and recovery.
+
+Threats:
+    - Unintended capturing leading to death or debilitation
+    - Direct harvest of turtles and eggs (for fat, meat, and eggs)
+    - Loss and degredation of nesting habitats
+    - Vessel strikes (watercrafts hitting turtles during operation)
+    - Ocean pollution
+    - Climate Change 
+    - Disease (Fibropapillomatosis ~ causes external and internal tumors)
+
+ Sources: 
+    - https://www.fisheries.noaa.gov/species/green-turtle

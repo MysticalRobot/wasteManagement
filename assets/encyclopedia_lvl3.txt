@@ -1,0 +1,122 @@
+Level 3 Encyclopedia
+  ____                       ____               _____           _   _      
+ / ___|_ __ ___  ___ _ __   / ___|  ___  __ _  |_   _|   _ _ __| |_| | ___ 
+| |  _| '__/ _ \/ _ \ '_ \  \___ \ / _ \/ _` |   | || | | | '__| __| |/ _ \
+| |_| | | |  __/  __/ | | |  ___) |  __/ (_| |   | || |_| | |  | |_| |  __/
+ \____|_|  \___|\___|_| |_| |____/ \___|\__,_|   |_| \__,_|_|   \__|_|\___|
+
+Appearance: 
+    The green sea turtle is the largest hard-shelled sea turtle. Its herbivore diet 
+    gives its fat a grennish color, as highlighted by their name. 
+
+Behavior: 
+    Green sea turtles primarily consume algae and seagrasses, but they are known to
+    occasionally forage sponges, invertebrates, and discarded fish (fish that are
+    caught and then released for a variety of different reasons).
+
+Life:
+    Like all other reptiles, they also must surface to breath and lay their eggs on land.
+    They are long-lived, reaching up to 70 years in age. They spend most of their 
+    adult lives, after around age 30, in shallow coastal habitats.
+
+Location:
+    Green sea turtles can be found worldwide in subtropical and temperate regions throughout
+    the Atlantic, Pacific, and Indian Oceans. Hence, it is important for all the countries
+    where they exist to work together for their protection and recovery.
+
+Threats:
+    - Unintended capturing leading to death or debilitation
+    - Direct harvest of turtles and eggs (for fat, meat, and eggs)
+    - Loss and degredation of nesting habitats
+    - Vessel strikes (watercrafts hitting turtles during operation)
+    - Ocean pollution
+    - Climate Change 
+    - Disease (Fibropapillomatosis ~ causes external and internal tumors)
+
+ _   _           _             _       ____        _       _     _       
+| | | | ___  ___| |_ ___  _ __( )___  |  _ \  ___ | |_ __ | |__ (_)_ __  
+| |_| |/ _ \/ __| __/ _ \| '__|// __| | | | |/ _ \| | '_ \| '_ \| | '_ \ 
+|  _  |  __/ (__| || (_) | |    \__ \ | |_| | (_) | | |_) | | | | | | | |
+|_| |_|\___|\___|\__\___/|_|    |___/ |____/ \___/|_| .__/|_| |_|_|_| |_|
+                                                    |_|                  
+
+Interesting Fact:
+    There are actually two subspecies of Hector's Dolphins. One goes by the name of 
+    Hector's dolphin, and the other is known as Maui's dolphin.
+
+Appearance: 
+    Unlike the green sea turtle, who are the largest of their kind, Hector's 
+    dolphins are the world's smallest dolphins. They have no external beak and a
+    relatively large fluke. Their distinct gray, black, and white coloring changes as
+    they age into an adult, when the sides of their head, tail, dorsal fin, and flippers,
+    become black, their throat, lower jaw, and belly become white, and the rest become
+    mainly gray. The females of both subspecies reach larger sizes than the males.
+
+Behavior:
+    They occur in small groups of typically 2-4 dolphins, but up to 20. They tend to 
+    involve themselves in bubble-blowing, leaping, lobtailinng (smacking water with their fluke), 
+    and spyhopping (holding the body vertically above the water surface).
+
+    Hector's dolphins tend to feed on cephalopods, crustaceans, and small fish species. 
+    Some of these species include red cod, arrow squid, and stargazer.
+
+Life:
+    Both subspecies live up to at least 22 years of age. Adulthood is reached at about
+    6-9 years of age, and females normally produce single calves every 2-4 years.
+
+Location:
+    Maui's dolphin and Hector's dolphin occur around the North and South Islands of New Zealand
+    respectively. 
+
+Threats:
+    - Low population growth
+    - Habitat degredation
+    - Climate Change 
+    - Pollution
+    - Unintended capturing
+    - Tourism
+    - Disease
+
+ ____  _             __        ___           _      
+| __ )| |_   _  ___  \ \      / / |__   __ _| | ___ 
+|  _ \| | | | |/ _ \  \ \ /\ / /| '_ \ / _` | |/ _ \
+| |_) | | |_| |  __/   \ V  V / | | | | (_| | |  __/
+|____/|_|\__,_|\___|    \_/\_/  |_| |_|\__,_|_|\___|
+
+Interesting Fact:
+    Blue whales have unique patterns that can be used to identity individuals.
+
+Appearance:
+    Blue whales are the largest animals to ever live on our planet. Antarctic blue whale
+    tend to be larger than North Atlantic and North Pacific blue whales. The former grow
+    up to 110 feet long and weigh more than 330,000 pounds whereas the latter only grow up
+    to about 90 feet and over 100,000 pounds. They have a long body and generally slender shape. 
+    Unsurprisingly, their blue-gray colored bodies, that appear light blue under water, give 
+    them their name.
+
+Behavior:
+    Sometimes, blue whales swim in small groups, but are they often found alone or in pairs.
+    They spend their time eating up to 6 tons of krill a day. They are among the loudest animals
+    in the world, with sounds emitted by blue whales being heard by other whales up to 1000 miles 
+    away. They typically coast at 5 miles an hour, but they can reach speeds up to 20 miles per hour.
+
+Life:
+    Blue whales live for around 80-90 on average. During summers, they feed in polar waters, but in 
+    winters, they migrate towards equatorial water. Besides approximate ages, scientists do not actually
+    know much about the life history of the blue whale.
+    
+Location:
+    Blue whales exist in all oceans except the Arctic. 
+
+Threats:
+    - Vessel strikes
+    - Entaglement in fishing generally
+    - Ocean noise
+    - Habitat degredation
+    - Climate Change 
+    - Pollution
+
+ Sources: 
+    - https://www.fisheries.noaa.gov/species/green-turtle
+    - https://www.fisheries.noaa.gov/species/hectors-dolphin
+    - https://www.fisheries.noaa.gov/species/blue-whale
