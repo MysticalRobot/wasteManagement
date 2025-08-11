@@ -16,3 +16,4 @@ swim for life while also learning about the impacts of poor waste management
 - try live as long as you can!
 - endangered species will occasionally swim past you at the top of your window, and you can learn more about them in `./encyclopedia.txt`, which expands after every novel encounter
 
+C for the win! :D
