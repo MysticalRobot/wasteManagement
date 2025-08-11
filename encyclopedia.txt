@@ -1,4 +1,4 @@
-Level 2 Encyclopedia
+Level 3 Encyclopedia
   ____                       ____               _____           _   _      
  / ___|_ __ ___  ___ _ __   / ___|  ___  __ _  |_   _|   _ _ __| |_| | ___ 
 | |  _| '__/ _ \/ _ \ '_ \  \___ \ / _ \/ _` |   | || | | | '__| __| |/ _ \
@@ -70,10 +70,53 @@ Location:
 
 Threats:
     - Low population growth
+    - Habitat degredation
+    - Climate Change 
+    - Pollution
     - Unintended capturing
     - Tourism
     - Disease
 
+ ____  _             __        ___           _      
+| __ )| |_   _  ___  \ \      / / |__   __ _| | ___ 
+|  _ \| | | | |/ _ \  \ \ /\ / /| '_ \ / _` | |/ _ \
+| |_) | | |_| |  __/   \ V  V / | | | | (_| | |  __/
+|____/|_|\__,_|\___|    \_/\_/  |_| |_|\__,_|_|\___|
+
+Interesting Fact:
+    Blue whales have unique patterns that can be used to identity individuals.
+
+Appearance:
+    Blue whales are the largest animals to ever live on our planet. Antarctic blue whale
+    tend to be larger than North Atlantic and North Pacific blue whales. The former grow
+    up to 110 feet long and weigh more than 330,000 pounds whereas the latter only grow up
+    to about 90 feet and over 100,000 pounds. They have a long body and generally slender shape. 
+    Unsurprisingly, their blue-gray colored bodies, that appear light blue under water, give 
+    them their name.
+
+Behavior:
+    Sometimes, blue whales swim in small groups, but are they often found alone or in pairs.
+    They spend their time eating up to 6 tons of krill a day. They are among the loudest animals
+    in the world, with sounds emitted by blue whales being heard by other whales up to 1000 miles 
+    away. They typically coast at 5 miles an hour, but they can reach speeds up to 20 miles per hour.
+
+Life:
+    Blue whales live for around 80-90 on average. During summers, they feed in polar waters, but in 
+    winters, they migrate towards equatorial water. Besides approximate ages, scientists do not actually
+    know much about the life history of the blue whale.
+    
+Location:
+    Blue whales exist in all oceans except the Arctic. 
+
+Threats:
+    - Vessel strikes
+    - Entaglement in fishing generally
+    - Ocean noise
+    - Habitat degredation
+    - Climate Change 
+    - Pollution
+
  Sources: 
     - https://www.fisheries.noaa.gov/species/green-turtle
     - https://www.fisheries.noaa.gov/species/hectors-dolphin
+    - https://www.fisheries.noaa.gov/species/blue-whale
