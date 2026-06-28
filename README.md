@@ -6,10 +6,17 @@ swim for your life while also learning about the impacts of poor waste managemen
 
 ## how to run
 
-- if necessary, link the ncurses library and recompile (e.g. with gcc):
+- if necessary, download the ncurses library 
   ```
-  gcc -lncurses p.c -o ./p.c
+  yum install ncurses-devel ncurses
   ```
+  > example for [RHEL, Fedora, CentOS Linux](https://stackoverflow.com/a/23012792)
+
+- link the ncurses library and recompile (e.g. with gcc):
+  ```
+  gcc -lncurses p.c -o ./p
+  ```
+
 - execute the program with
   ```
   ./p
